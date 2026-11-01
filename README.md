@@ -1,5 +1,3 @@
-# feed-da-palavra
-
 # Feed da Palavra
 
 A Bíblia em feed: um versículo por tela, planos de leitura e lembrete diário. Funciona sem internet, sem conta e sem anúncios.
